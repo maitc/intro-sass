@@ -1,0 +1,13 @@
+body {
+  background-color: #CCEBE3; }
+
+header {
+  background-color: #15A96C;
+  position: fixed;
+  width: 100%; }
+  header h2 {
+    color: whitesmoke; }
+    header h2 span {
+      font-weight: bold; }
+
+/*# sourceMappingURL=main.css.map */
